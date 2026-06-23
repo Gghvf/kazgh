@@ -1,0 +1,1 @@
+import{S as e,T as t,a as n,c as r,f as i,g as a,n as o}from"./index-A2ARKiUu.js";var s={class:`footer`},c=o(i({__name:`TheFooter`,setup(i){let o=new Date().getFullYear();return(i,c)=>(a(),r(`footer`,s,[n(`span`,null,`2004 — `+t(e(o))+` Колокшанский Агрегатный Завод`,1)]))}}),[[`__scopeId`,`data-v-e7746400`]]);export{c as t};
